@@ -5,3 +5,5 @@ cnpm
 ○	Tạo bảng Books bằng Entity Framework.
 ○	Viết giao diện thêm sách.
 ○	Code xử lý thêm sách
+
+○	Tạo class xử lý cảnh báo hạn trả sách 
