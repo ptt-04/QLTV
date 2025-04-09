@@ -22,3 +22,4 @@ cnpm
 ○	Gắn thêm thông báo lỗi nếu sách chưa được mượn. 
 
 o	Tạo giao diện nhập email và nút "Quên mật khẩu"
+o	Code sự kiện gửi yêu cầu khôi phục
