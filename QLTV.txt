@@ -16,3 +16,4 @@ cnpm
 ○	Tạo hàm lấy danh sách sách đang mượn 
 ○	Xây dựng giao diện danh sách trả sách 
 ○	Viết xử lý khi chọn sách và nhấn “Trả” 
+○	Gọi cập nhật NgayTra và tính trễ hạn 
