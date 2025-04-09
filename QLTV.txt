@@ -26,3 +26,4 @@ o	Code sự kiện gửi yêu cầu khôi phục
 o	Sinh token khôi phục và lưu vào DB với thời hạn
 o	Tạo giao diện đặt lại mật khẩu
 o	Viết hàm xác minh token và cập nhật mật khẩu mới (có hash)
+o	Hiển thị thông báo khi đặt lại thành công hoặc thất bại
