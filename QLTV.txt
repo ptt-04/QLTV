@@ -17,3 +17,4 @@ cnpm
 ○	Xây dựng giao diện danh sách trả sách 
 ○	Viết xử lý khi chọn sách và nhấn “Trả” 
 ○	Gọi cập nhật NgayTra và tính trễ hạn 
+○	Cập nhật số lượng tồn kho 
