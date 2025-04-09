@@ -4,3 +4,4 @@ cnpm
 ○	Code class Book.
 ○	Tạo bảng Books bằng Entity Framework.
 ○	Viết giao diện thêm sách.
+○	Code xử lý thêm sách
