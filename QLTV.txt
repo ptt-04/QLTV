@@ -12,3 +12,11 @@ cnpm
 ○	Thực hiện viết code cho giao diện
 ○	Thực hiện liên kết giữa giao diện và xử lý
 ○	Tùy chọn: tích hợp gửi email
+
+○	Tạo hàm lấy danh sách sách đang mượn 
+○	Xây dựng giao diện danh sách trả sách 
+○	Viết xử lý khi chọn sách và nhấn “Trả” 
+○	Gọi cập nhật NgayTra và tính trễ hạn 
+○	Cập nhật số lượng tồn kho
+○	Thêm thông báo “Trả đúng hạn” / “Trả trễ X ngày” 
+○	Gắn thêm thông báo lỗi nếu sách chưa được mượn. 
