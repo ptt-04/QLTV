@@ -11,3 +11,4 @@ cnpm
 ○	Tạo model Notification 
 ○	Thực hiện viết code cho giao diện
 ○	Thực hiện liên kết giữa giao diện và xử lý
+○	Tùy chọn: tích hợp gửi email
