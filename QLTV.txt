@@ -20,3 +20,5 @@ cnpm
 ○	Cập nhật số lượng tồn kho
 ○	Thêm thông báo “Trả đúng hạn” / “Trả trễ X ngày” 
 ○	Gắn thêm thông báo lỗi nếu sách chưa được mượn. 
+
+o	Tạo giao diện nhập email và nút "Quên mật khẩu"
